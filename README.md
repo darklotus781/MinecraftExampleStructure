@@ -11,3 +11,7 @@ You can use this as a starting point to add structures into your 1.18.2+ worlds.
 If Mojang changes this in the future, this datapack will be updated.
 
 You may use this datapack as a starting point for your own projects, just don't redistribute this exact pack as your own creation :)
+
+Examples:
+![Example 1](screenshot1.png)
+![Example 2](screenshot2.png)
