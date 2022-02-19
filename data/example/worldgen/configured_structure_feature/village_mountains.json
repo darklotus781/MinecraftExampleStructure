@@ -1,0 +1,10 @@
+{
+  "config": {
+    "start_pool": "example:village/mountains/town_centers",
+    "size": 6
+  },
+  "biomes": "#example:has_structure/village_mountains",
+  "adapt_noise": true,
+  "spawn_overrides": {},
+  "type": "minecraft:village"
+}
